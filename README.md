@@ -2,7 +2,7 @@
 
 In this repository, I am sharing some of the code from my dissertation on the PSO (Particle Swarm Optimization) method.
 
-My dissertation is largely based on the work of Lorenzo Pareschi and Sara Grassi. During the summer of 2024, I undertook a project titled **Mean-Field Techniques in Particle Swarm Optimization** for my master's dissertation at Heriot-Watt University. In this project, I aimed to derive Vlasov-Fokker-Planck type equations that characterize the dynamics of CBO (Collective Behavior Optimization) models—simpler but similar to PSO. Alongside this, I performed numerical testing, which included histogram plots of the SD-PSO (Stochastic Dynamics Particle Swarm Optimization) systems, as well as histogram and PDF comparisons of the analogous Vlasov-Fokker-Planck type equations characterizing the SD-SPO and SD-PSO equations themselves.
+My dissertation is largely based on the work of Lorenzo Pareschi and Sara Grassi. During the summer of 2024, I undertook a project titled **Mean-Field Techniques in Particle Swarm Optimization** for my master's dissertation at Heriot-Watt University. In this project, I aimed to derive Vlasov-Fokker-Planck type equations that characterize the dynamics of CBO  models—simpler but similar to PSO. Alongside this, I performed numerical testing, which included histogram plots of the SD-PSO (Stochastic Dynamics Particle Swarm Optimization) systems, as well as histogram and PDF comparisons of the analogous Vlasov-Fokker-Planck type equations characterizing the SD-SPO and SD-PSO equations themselves.
 
 ## Project Overview
 
