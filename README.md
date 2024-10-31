@@ -10,7 +10,7 @@ This repository contains code related to the numerical testing and simulations d
 
 ### Code Files
 
-- **Case 1.a - Histogram.ipynb**: Code for the SD-PSO system with memory, focused on minimizing the Ackley function.
+- **Case 1 - Histogram.ipynb**: Code for the SD-PSO system with memory, focused on minimizing the Ackley function.
 - **Case 2 - Histogram.ipynb**: Code demonstrating the dynamics of the SD-PSO system with local best dynamics.
 - **Case 3 - Histogram.ipynb**: Further exploration of the SD-PSO system with local and global best dynamics.
 - **0.1 - The Original PSO Method.ipynb**: Basic PSO method implementation featuring an animation that visualizes particle swarm convergence.
